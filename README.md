@@ -27,3 +27,4 @@ To use Keras for image classification, we can follow these steps:
 
 A detailed example can be found in the file 'main.py'.
 
+For convienve, you can run it on Google Colab

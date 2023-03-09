@@ -1,6 +1,8 @@
 # Handwritten-Digit-Regconition
 Keras is an open-source Python framework for deep learning that can run on top of other deep learning frameworks such as TensorFlow, Theano, and CNTK. With high-level APIs, easy-to-use, and easy-to-extend features, Keras helps users build deep learning models in a simple way.
 
+(Read more about Convolutional Neural Network (CNN) in my blog: https://www.notion.so/Convolutional-Neural-Network-CNN-0bc6f32d43f24c10bba39901869e76a0?pvs=4)
+
 To use Keras for image classification, we can follow these steps:
 
 1. Import the necessary libraries

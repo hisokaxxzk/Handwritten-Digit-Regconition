@@ -3,25 +3,25 @@ Keras is an open-source Python framework for deep learning that can run on top o
 
 To use Keras for image classification, we can follow these steps:
 
-Import the necessary libraries
+1. Import the necessary libraries
 
-Load the MNIST dataset
+2. Load the MNIST dataset
 
-Reshape the data to the format required by Keras
+3. Reshape the data to the format required by Keras
 
-One-hot encode the label
+4. One-hot encode the label
 
-Define the model with layers stacked on top of each other
+5. Define the model with layers stacked on top of each other
 
-Compile the model, specifying the loss function and optimization method
+6. Compile the model, specifying the loss function and optimization method
 
-Train the model with the data
+7. Train the model with the data
 
-Evaluate the accuracy of the model on the test data
+8. Evaluate the accuracy of the model on the test data
 
-Plot the graph representing the changes in the loss function and accuracy during training and validation
+9. Plot the graph representing the changes in the loss function and accuracy during training and validation
 
-Predict an image
+10. Predict an image
 
-A detailed example can be found in the code above.
+A detailed example can be found in the file 'main.py'.
 
